@@ -1,0 +1,31 @@
+[
+    {
+        "statement" : "É extraido da seringueira",
+        "answers" : [
+            "Laca Vegetal",
+            "Malte",
+            "Látex"
+        ],
+        "correct": 2
+    },
+    
+    {
+        "statement" : "Qual o coletivo de chave?",
+        "answers" : [
+            "Chaves",
+            "Chaveiro",
+            "Molho"
+        ],
+        "correct": 2
+    },
+    
+    {
+        "statement" : "Liberdade do estado de escravidão",
+        "answers" : [
+            "Oforria",
+            "Alforria",
+            "Halforria"
+        ],
+        "correct": 1
+    }
+]
